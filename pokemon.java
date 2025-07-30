@@ -52,7 +52,6 @@ public class Pokemon {
         loadImage();
     }
 
-    // Simplified constructor using Pokédex CSV
     public Pokemon(int numeroPokedex, int joueur, int x, int y) {
         this.numeroPokedex = numeroPokedex;
         this.joueur = joueur;
