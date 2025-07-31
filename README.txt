@@ -43,4 +43,4 @@ Rejouer → relance une nouvelle partie avec les positions de départ
 
 Quitter → ferme le jeu
 
-*****projet_java_base est terminé*****
+*****projet_java_avancé est terminé*****
